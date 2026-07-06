@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/itskaju/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
