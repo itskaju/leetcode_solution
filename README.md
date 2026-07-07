@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/itskaju/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/itskaju/leetcode_solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1288-remove-covered-intervals](https://github.com/itskaju/leetcode_solution/tree/master/1288-remove-covered-intervals) |
+| [2256-minimum-average-difference](https://github.com/itskaju/leetcode_solution/tree/master/2256-minimum-average-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/itskaju/leetcode_solution/tree/master/0724-find-pivot-index) |
+| [2256-minimum-average-difference](https://github.com/itskaju/leetcode_solution/tree/master/2256-minimum-average-difference) |
 ## Stack
 |  |
 | ------- |
