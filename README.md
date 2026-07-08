@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itskaju/leetcode_solution/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/itskaju/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0334-increasing-triplet-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/itskaju/leetcode_solution/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itskaju/leetcode_solution/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
 |  |
