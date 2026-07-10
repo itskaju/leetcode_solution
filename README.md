@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0724-find-pivot-index](https://github.com/itskaju/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/itskaju/leetcode_solution/tree/master/0907-sum-of-subarray-minimums) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/itskaju/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/itskaju/leetcode_solution/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/itskaju/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [2256-minimum-average-difference](https://github.com/itskaju/leetcode_solution/tree/master/2256-minimum-average-difference) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/itskaju/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
