@@ -1,27 +1,29 @@
+from typing import List
+
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
-        def canship(capacity):
-            days_needed = 1 
-            current = 0
+
+        def canShip(capacity):
+            day = 1
+            load = 0
 
             for w in weights:
-                if current + w > capacity:
+                if load + w > capacity:
+                    day += 1
+                    load = 0
+                load += w
 
-                   days_needed += 1
-                   current = 0
-                current += w
-
-            return days_needed  <= days
+            return day <= days
 
         left = max(weights)
         right = sum(weights)
 
-        while left< right:
-            mid = (left + right) // 2 
+        while left < right:
+            mid = (left + right) // 2
 
-            if canship(mid):
+            if canShip(mid):
                 right = mid
             else:
                 left = mid + 1
 
-        return left                      
+        return left
