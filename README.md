@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/itskaju/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/itskaju/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/itskaju/leetcode_solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itskaju/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/itskaju/leetcode_solution/tree/master/1288-remove-covered-intervals) |
 ## Divide and Conquer
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itskaju/leetcode_solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itskaju/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
