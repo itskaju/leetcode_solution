@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itskaju/leetcode_solution/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/itskaju/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itskaju/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/itskaju/leetcode_solution/tree/master/0136-single-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itskaju/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itskaju/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
