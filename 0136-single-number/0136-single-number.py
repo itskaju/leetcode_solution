@@ -1,9 +1,10 @@
 class Solution:
-    def singleNumber(self, arr: List[int]) -> int:
-        result = 0
+    def singleNumber(self,nums:List[int]) -> int:
+        freq={}
 
-        for num in arr:
-            result ^= num
+        for num in nums:
+            freq[num] = freq.get(num,0) +1
 
-        return result
-        
+        for key in freq:
+            if freq[key] == 1:
+                return key
