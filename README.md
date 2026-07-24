@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/itskaju/leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0334-increasing-triplet-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/itskaju/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/itskaju/leetcode_solution/tree/master/1288-remove-covered-intervals) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/itskaju/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/itskaju/leetcode_solution/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itskaju/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -192,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itskaju/leetcode_solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
