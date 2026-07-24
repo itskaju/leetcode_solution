@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itskaju/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/itskaju/leetcode_solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/itskaju/leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0334-increasing-triplet-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/itskaju/leetcode_solution/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itskaju/leetcode_solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
