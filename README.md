@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/itskaju/leetcode_solution/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/itskaju/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0907-sum-of-subarray-minimums](https://github.com/itskaju/leetcode_solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itskaju/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/itskaju/leetcode_solution/tree/master/1260-shift-2d-grid) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/itskaju/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/itskaju/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/itskaju/leetcode_solution/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/itskaju/leetcode_solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itskaju/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
