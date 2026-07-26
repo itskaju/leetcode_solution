@@ -1,8 +1,8 @@
 class Solution:
-    def thirdMax(self, nums):
-        # Example implementation: return the third distinct maximum number
+    def thirdMax(self,nums):
+        
         distinct = sorted(set(nums), reverse=True)
         if len(distinct) >= 3:
-            return distinct[2]
+           return distinct[2]
         else:
-            return distinct[0]
+            return distinct[0]   
