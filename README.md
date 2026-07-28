@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/itskaju/leetcode_solution/tree/master/0389-find-the-difference) |
+| [1143-longest-common-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/itskaju/leetcode_solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itskaju/leetcode_solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itskaju/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itskaju/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/itskaju/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/itskaju/leetcode_solution/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itskaju/leetcode_solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Backtracking
 |  |
