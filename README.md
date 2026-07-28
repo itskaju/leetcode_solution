@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/itskaju/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/itskaju/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/itskaju/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 ## Memoization
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/itskaju/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
