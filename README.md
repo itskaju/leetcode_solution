@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0214-shortest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -275,4 +276,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/itskaju/leetcode_solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
