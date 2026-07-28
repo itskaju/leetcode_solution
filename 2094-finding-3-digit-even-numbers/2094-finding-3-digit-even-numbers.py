@@ -1,14 +1,18 @@
-from collections import Counter
+from itertools import permutations
 
 class Solution:
     def findEvenNumbers(self, digits):
-        cnt = Counter(digits)
-        ans = []
-        for x in range(100, 1000, 2):  # only even numbers
-            cnt1 = Counter(int(d) for d in str(x))  # convert to int digits
-            if all(cnt[d] >= cnt1[d] for d in cnt1):
-                ans.append(x)
-        return sorted(ans)  # ensure ascending order
+        res = set()
+        
+        # generate all permutations of length 3
+        for perm in permutations(digits, 3):
+            num = perm[0]*100 + perm[1]*10 + perm[2]
+            
+            # conditions: no leading zero, last digit even
+            if perm[0] != 0 and perm[2] % 2 == 0:
+                res.add(num)
+        
+        return sorted(res)
 
      
         
