@@ -1,6 +1,6 @@
 class Solution(object):
     def numRescueBoats(self, people, limit):
-        
+       
         people.sort()
 
         left = 0
@@ -11,10 +11,12 @@ class Solution(object):
         while left <= right:
 
             if people[left] + people[right] <= limit:
-                left += 1
-
+                left +=1
+            
             right -= 1
 
-            boats +=1
+            boats += 1
             
-        return boats        
+        return boats     
+         
+        
