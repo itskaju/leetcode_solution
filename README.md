@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/itskaju/leetcode_solution/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/1143-longest-common-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/itskaju/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itskaju/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itskaju/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itskaju/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/itskaju/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itskaju/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/itskaju/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/itskaju/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2256-minimum-average-difference](https://github.com/itskaju/leetcode_solution/tree/master/2256-minimum-average-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itskaju/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itskaju/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/itskaju/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itskaju/leetcode_solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bucket Sort
 |  |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/itskaju/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
