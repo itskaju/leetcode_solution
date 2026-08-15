@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/itskaju/leetcode_solution/tree/master/0389-find-the-difference) |
+| [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itskaju/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itskaju/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itskaju/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/itskaju/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/itskaju/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/itskaju/leetcode_solution/tree/master/0881-boats-to-save-people) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/itskaju/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [2094-finding-3-digit-even-numbers](https://github.com/itskaju/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itskaju/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itskaju/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itskaju/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/itskaju/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/itskaju/leetcode_solution/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/itskaju/leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itskaju/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itskaju/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/itskaju/leetcode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -339,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -443,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itskaju/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
