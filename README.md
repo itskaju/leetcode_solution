@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/itskaju/leetcode_solution/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itskaju/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/itskaju/leetcode_solution/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/itskaju/leetcode_solution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/itskaju/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/itskaju/leetcode_solution/tree/master/1288-remove-covered-intervals) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/itskaju/leetcode_solution/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itskaju/leetcode_solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/itskaju/leetcode_solution/tree/master/1095-find-in-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itskaju/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itskaju/leetcode_solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
@@ -460,4 +462,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/itskaju/leetcode_solution/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/itskaju/leetcode_solution/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
