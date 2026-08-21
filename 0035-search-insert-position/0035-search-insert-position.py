@@ -1,18 +1,16 @@
 class Solution(object):
     def searchInsert(self, nums, target):
-        low = 0
-        high = len(nums) - 1
-        result = -1
+        start = 0
+        end = len(nums) - 1
 
-        while high >= low:
-            mid = (high + low) // 2
+        while start <= end:
+            mid = (start + end) // 2
 
             if nums[mid] == target:
                 return mid
-
-            if nums[mid] > target:
-                high = mid - 1
+            elif nums[mid] > target:
+                end = mid - 1
             else:
-                low = mid + 1
+                start = mid + 1
 
-        return low
+        return start
