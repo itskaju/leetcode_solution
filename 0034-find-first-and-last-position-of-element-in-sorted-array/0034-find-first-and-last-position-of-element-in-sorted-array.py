@@ -1,43 +1,40 @@
-from typing import List
+class Solution(object):
+    def searchRange(self, nums, target):
+        
+        def findFirst(nums, target):
+            start = 0
+            end = len(nums) - 1
+            result = -1
 
-class Solution:
+            while start <= end:
+                mid = (start + end ) // 2
+                
+                if nums[mid] == target:
+                    result =  mid
+                    end = mid - 1
+                elif nums[mid] > target:
+                    end = mid -1
+                else:
+                    start = mid + 1
+            return result
 
-    def firstOccurrence(self, arr: List[int], target: int) -> int:
-        left, right = 0, len(arr) - 1
-        ans = -1
+        def findLast(nums, target):
+            start = 0
+            end = len(nums) - 1
+            result = -1
 
-        while left <= right:
-            mid = left + (right - left) // 2
+            while start <= end:
+                mid = (start + end ) // 2
+               
+                if nums[mid] == target:
+                    result =  mid
+                    start = mid + 1
+                elif nums[mid] > target:
+                    end = mid - 1
+                else:
+                    start = mid + 1
+            return result
+        return [findFirst(nums, target), findLast(nums, target)]                
 
-            if arr[mid] == target:
-                ans = mid
-                right = mid - 1      # Search left half
-            elif arr[mid] < target:
-                left = mid + 1
-            else:
-                right = mid - 1
 
-        return ans
-
-    def lastOccurrence(self, arr: List[int], target: int) -> int:
-        left, right = 0, len(arr) - 1
-        ans = -1
-
-        while left <= right:
-            mid = left + (right - left) // 2
-
-            if arr[mid] == target:
-                ans = mid
-                left = mid + 1       # Search right half
-            elif arr[mid] < target:
-                left = mid + 1
-            else:
-                right = mid - 1
-
-        return ans
-
-    def searchRange(self, arr: List[int], target: int) -> List[int]:
-        first = self.firstOccurrence(arr, target)
-        last = self.lastOccurrence(arr, target)
-
-        return [first, last]
+        
