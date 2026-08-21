@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itskaju/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/itskaju/leetcode_solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/itskaju/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itskaju/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/itskaju/leetcode_solution/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/itskaju/leetcode_solution/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
 |  |
