@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/itskaju/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/itskaju/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itskaju/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/itskaju/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itskaju/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/itskaju/leetcode_solution/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itskaju/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
