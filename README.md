@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/itskaju/leetcode_solution/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/itskaju/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/itskaju/leetcode_solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/itskaju/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/itskaju/leetcode_solution/tree/master/0322-coin-change) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/itskaju/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/itskaju/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/itskaju/leetcode_solution/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/itskaju/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
