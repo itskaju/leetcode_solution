@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itskaju/leetcode_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/itskaju/leetcode_solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/itskaju/leetcode_solution/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/itskaju/leetcode_solution/tree/master/0229-majority-element-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/itskaju/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/itskaju/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/itskaju/leetcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itskaju/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/itskaju/leetcode_solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/itskaju/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itskaju/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/itskaju/leetcode_solution/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/itskaju/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itskaju/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itskaju/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
