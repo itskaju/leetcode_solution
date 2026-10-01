@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/itskaju/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/itskaju/leetcode_solution/tree/master/0796-rotate-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itskaju/leetcode_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/itskaju/leetcode_solution/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
