@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/itskaju/leetcode_solution/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/itskaju/leetcode_solution/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/itskaju/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itskaju/leetcode_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/itskaju/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/itskaju/leetcode_solution/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/itskaju/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itskaju/leetcode_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/itskaju/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/itskaju/leetcode_solution/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/itskaju/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/itskaju/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/itskaju/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itskaju/leetcode_solution/tree/master/2029-stone-game-ix) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/itskaju/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itskaju/leetcode_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
