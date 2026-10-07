@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/itskaju/leetcode_solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/itskaju/leetcode_solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/itskaju/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/itskaju/leetcode_solution/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itskaju/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/itskaju/leetcode_solution/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/itskaju/leetcode_solution/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
