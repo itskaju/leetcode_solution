@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/itskaju/leetcode_solution/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/itskaju/leetcode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/itskaju/leetcode_solution/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itskaju/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itskaju/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itskaju/leetcode_solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itskaju/leetcode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/itskaju/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itskaju/leetcode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/itskaju/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itskaju/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itskaju/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itskaju/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itskaju/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/itskaju/leetcode_solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/itskaju/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/itskaju/leetcode_solution/tree/master/2029-stone-game-ix) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itskaju/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itskaju/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itskaju/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itskaju/leetcode_solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/itskaju/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/itskaju/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itskaju/leetcode_solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itskaju/leetcode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/itskaju/leetcode_solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/itskaju/leetcode_solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
