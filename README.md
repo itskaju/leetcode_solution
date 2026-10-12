@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/itskaju/leetcode_solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/itskaju/leetcode_solution/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/itskaju/leetcode_solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/itskaju/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itskaju/leetcode_solution/tree/master/0509-fibonacci-number) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itskaju/leetcode_solution/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/itskaju/leetcode_solution/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/itskaju/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/itskaju/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
