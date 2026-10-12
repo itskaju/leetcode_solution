@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/itskaju/leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/itskaju/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/itskaju/leetcode_solution/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/itskaju/leetcode_solution/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/itskaju/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/itskaju/leetcode_solution/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itskaju/leetcode_solution/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/itskaju/leetcode_solution/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/itskaju/leetcode_solution/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/itskaju/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/itskaju/leetcode_solution/tree/master/0645-set-mismatch) |
