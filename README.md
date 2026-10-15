@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itskaju/leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/itskaju/leetcode_solution/tree/master/0155-min-stack) |
 | [0856-score-of-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/itskaju/leetcode_solution/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/itskaju/leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -697,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/itskaju/leetcode_solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
