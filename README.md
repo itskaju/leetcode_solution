@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/itskaju/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/itskaju/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/itskaju/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/itskaju/leetcode_solution/tree/master/0091-decode-ways) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/itskaju/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/itskaju/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/itskaju/leetcode_solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/itskaju/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/itskaju/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/itskaju/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itskaju/leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/itskaju/leetcode_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itskaju/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/itskaju/leetcode_solution/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/itskaju/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/itskaju/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/itskaju/leetcode_solution/tree/master/0205-isomorphic-strings) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/itskaju/leetcode_solution/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/itskaju/leetcode_solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/itskaju/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/itskaju/leetcode_solution/tree/master/0229-majority-element-ii) |
