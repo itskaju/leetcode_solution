@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/itskaju/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/itskaju/leetcode_solution/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/itskaju/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/itskaju/leetcode_solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/itskaju/leetcode_solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itskaju/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/itskaju/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/itskaju/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/itskaju/leetcode_solution/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/itskaju/leetcode_solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/itskaju/leetcode_solution/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/itskaju/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 ## Counting Sort
