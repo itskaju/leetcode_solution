@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/itskaju/leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/itskaju/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/itskaju/leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/itskaju/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/itskaju/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/itskaju/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/itskaju/leetcode_solution/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/itskaju/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 ## Counting Sort
 |  |
 | ------- |
