@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itskaju/leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itskaju/leetcode_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/itskaju/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/itskaju/leetcode_solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/itskaju/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itskaju/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/itskaju/leetcode_solution/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/itskaju/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/itskaju/leetcode_solution/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/itskaju/leetcode_solution/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/itskaju/leetcode_solution/tree/master/0389-find-the-difference) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/itskaju/leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/itskaju/leetcode_solution/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/itskaju/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/itskaju/leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/itskaju/leetcode_solution/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/itskaju/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 ## DP on Trees
 |  |
 | ------- |
