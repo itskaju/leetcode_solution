@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/itskaju/leetcode_solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/itskaju/leetcode_solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/itskaju/leetcode_solution/tree/master/0092-reverse-linked-list-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itskaju/leetcode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/itskaju/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/itskaju/leetcode_solution/tree/master/0146-lru-cache) |
 ## Counting Sort
@@ -592,11 +593,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itskaju/leetcode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/itskaju/leetcode_solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itskaju/leetcode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/itskaju/leetcode_solution/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/itskaju/leetcode_solution/tree/master/3310-remove-methods-from-project) |
@@ -670,12 +673,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itskaju/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itskaju/leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itskaju/leetcode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itskaju/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itskaju/leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itskaju/leetcode_solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
