@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/itskaju/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/itskaju/leetcode_solution/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/itskaju/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0301-remove-invalid-parentheses) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/itskaju/leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/itskaju/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/itskaju/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/itskaju/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/itskaju/leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/itskaju/leetcode_solution/tree/master/0242-valid-anagram) |
