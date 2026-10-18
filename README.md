@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/itskaju/leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/itskaju/leetcode_solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/itskaju/leetcode_solution/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/itskaju/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -712,10 +714,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/itskaju/leetcode_solution/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/itskaju/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itskaju/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 ## Ordered Set
 |  |
 | ------- |
