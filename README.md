@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/itskaju/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itskaju/leetcode_solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/itskaju/leetcode_solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/itskaju/leetcode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itskaju/leetcode_solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itskaju/leetcode_solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/itskaju/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itskaju/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/itskaju/leetcode_solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itskaju/leetcode_solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/itskaju/leetcode_solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itskaju/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itskaju/leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/itskaju/leetcode_solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/itskaju/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/itskaju/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itskaju/leetcode_solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/itskaju/leetcode_solution/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/itskaju/leetcode_solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itskaju/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/itskaju/leetcode_solution/tree/master/2029-stone-game-ix) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/itskaju/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/itskaju/leetcode_solution/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -508,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itskaju/leetcode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itskaju/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/itskaju/leetcode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -703,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/itskaju/leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -720,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/itskaju/leetcode_solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/itskaju/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -797,8 +805,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/itskaju/leetcode_solution/tree/master/0173-binary-search-tree-iterator) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/itskaju/leetcode_solution/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itskaju/leetcode_solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
