@@ -13,7 +13,7 @@ class Solution:
             left = depth(node.left)
             right = depth(node.right)
             self.diameter = max(self.diameter , left + right)
-            return max(left, right) + 1
-
-        depth(root)
-        return self.diameter        
+            return max(left , right) + 1
+        depth (root) 
+        return self.diameter       
+        
