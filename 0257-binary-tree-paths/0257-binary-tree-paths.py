@@ -8,16 +8,19 @@ class Solution:
     def binaryTreePaths(self, root: TreeNode | None) -> list[str]:
         paths = []
 
-        def helper(node, path, paths):
+        def helper(node, path,paths):
             if not node:
-                return 
-            path += str(node.val)  
+                return
+            path += str(node.val)
             if not node.left and not node.right:
                 paths.append(path)
             else:
                 path += "->"
                 helper(node.left, path, paths)
-                helper(node.right , path, paths)
-        paths = []        
-        helper(root, "" , paths)               
-        return paths
+                helper(node.right, path, paths)
+
+        paths = []
+        helper(root, "" ,paths)
+        return paths        
+
+        
