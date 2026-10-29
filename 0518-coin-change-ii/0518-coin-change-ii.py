@@ -6,4 +6,4 @@ class Solution:
         for coin in coins:
             for i in range(coin,amount +1):
                 dp[i] += dp[i-coin]
-        return dp[amount] if dp[amount]  > 0   else 0 
+        return dp[amount] 
