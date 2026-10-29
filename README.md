@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/itskaju/leetcode_solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/itskaju/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/itskaju/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/itskaju/leetcode_solution/tree/master/0257-binary-tree-paths) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itskaju/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itskaju/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/itskaju/leetcode_solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/itskaju/leetcode_solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itskaju/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/itskaju/leetcode_solution/tree/master/0046-permutations) |
