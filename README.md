@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/itskaju/leetcode_solution/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/itskaju/leetcode_solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/itskaju/leetcode_solution/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/itskaju/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itskaju/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/itskaju/leetcode_solution/tree/master/0518-coin-change-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/itskaju/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itskaju/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itskaju/leetcode_solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/itskaju/leetcode_solution/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/itskaju/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/itskaju/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/itskaju/leetcode_solution/tree/master/0486-predict-the-winner) |
