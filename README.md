@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itskaju/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/itskaju/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/itskaju/leetcode_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/itskaju/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/itskaju/leetcode_solution/tree/master/0076-minimum-window-substring) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itskaju/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itskaju/leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/itskaju/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/itskaju/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/itskaju/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/itskaju/leetcode_solution/tree/master/0091-decode-ways) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itskaju/leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/itskaju/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itskaju/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/itskaju/leetcode_solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/itskaju/leetcode_solution/tree/master/0409-longest-palindrome) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/itskaju/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/itskaju/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/itskaju/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/itskaju/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/itskaju/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/itskaju/leetcode_solution/tree/master/2094-finding-3-digit-even-numbers) |
