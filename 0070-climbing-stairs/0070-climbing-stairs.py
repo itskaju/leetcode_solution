@@ -4,8 +4,16 @@ class Solution:
             return memo[n]
         if n == 1:
             return 1
-        if n == 2:
+        elif n == 2:
             return  2
-        memo[n] = self.climbStairs(n-1,memo) + self.climbStairs(n-2, memo)
-        return memo[n]            
+
+        first = 1
+        second = 2
+
+        for i in range(3, n+1):
+            current = first+second
+            first = second
+            second = current
+        return second    
+                
         
